@@ -1,4 +1,4 @@
-# Inferring-extinction-date-of-a-species-using-non-homogeneous-Poisson-processes-with-a-change-point
+# Inferring extinction date of a species using non-homogeneous Poisson processes with a change-point
 
 The code uses utility programs from a book which  has the following citation:
 
